@@ -1,4 +1,4 @@
-# 🚀 AI Resume Analyzer 
+# 🚀 AI Resume Analyzer for GCC Jobs
 
 An AI-powered SaaS application that analyzes resumes and provides ATS score, job match insights, and improvement suggestions tailored for UAE 🇦🇪, Saudi Arabia 🇸🇦, and Qatar 🇶🇦 job markets.
 

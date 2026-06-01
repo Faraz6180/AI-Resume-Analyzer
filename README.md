@@ -12,7 +12,7 @@ An AI-powered SaaS application that analyzes resumes and provides ATS score, job
 
 ## 📸 App Preview
 
-### 🏠 Home Screen.
+### 🏠 Home Screen
 
 <img width="1336" height="596" alt="image" src="https://github.com/user-attachments/assets/7f9f90ef-014c-4f40-8f40-c4b512ae6fa1" />
 

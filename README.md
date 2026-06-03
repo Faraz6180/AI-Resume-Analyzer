@@ -4,7 +4,7 @@ An AI-powered SaaS application that analyzes resumes and provides ATS score, job
 
 ---
 
-## 🌍 Live Demo.
+## 🌍 Live Demo
 
 👉 [Try the App] https://huggingface.co/spaces/Faraz618/AI-resume-analyzer
 
